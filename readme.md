@@ -2,7 +2,7 @@
 After a server/game crash minecraft worlds can get scrambled. After manually moving chunks back
 using a tool like [MCA Selector](https://github.com/Querz/mcaselector), there still can be issues with chests, barrels, etc.
 
-When that is the case, typically the following message will show (when runnin a server):
+When that is the case, typically the following message will show (when running a server):
 ```
 [15:31:33] [Server thread/WARN]: Block entity invalid: minecraft:chest @ BlockPosition{x=-109, y=69, z=-162}
 ```
